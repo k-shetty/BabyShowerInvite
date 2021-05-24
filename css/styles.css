@@ -1,0 +1,158 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  float: none;
+  font-family: "Handlee", "Segoe Script", cursive;
+  font-size: 400%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 60px;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Handlee", "Segoe Script", cursive;
+  font-size: 300%;
+  margin: 0px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h3 {
+  font-family: "Handlee", "Segoe Script", cursive;
+  font-size: 100%;
+}
+
+h4 {
+  font-family: "Handlee", "Segoe Script", cursive;
+  font-size: 175%;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+p{
+  font-family: "Open Sans", "Calibri", sans-serif;
+  font-weight: 600;
+  font-size: 100%;
+  margin: 0px;
+  padding: 3% 3% 4% 3%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 5px;
+}
+
+li  {
+  display: inline;
+}
+
+a {
+  padding: 15px;
+  background-color: #e9f3fc;
+  color: black;
+  font-family: "Open Sans", "Calibri", sans-serif;
+  font-size: 100%;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.centered{
+  text-align: center;
+}
+
+.light{
+  background-color: #e9f3fc;
+}
+
+.dark{
+  background-color: #a3c6e2;
+}
+
+.darkest{
+  background-color: black;
+  color: white;
+
+}
+
+.formatP{
+  width: 60%;
+  margin: 0 auto;
+}
+
+.map {
+  filter: grayscale(100%) invert(95%) contrast(80%);
+}
+
+.picture{
+  background-color: #a3c6e2;
+  height: 626px;
+  margin: 0 auto;
+  padding: 0px;
+  text-align: center;
+}
+
+.RSVPButton{
+  background-color: #a3c6e2;
+  color: white;
+  font-size: 150%;
+  margin: 10px;
+}
+
+.registry {
+  height: 350px;
+}
+
+.rsvp {
+  height: 300px;
+  position: relative;
+}
+
+#aboutP {
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+
+#attribute {
+  background-color: black;
+  color: #8c949c;
+  display: inline;
+  font-size: 65%;
+  margin: 0px;
+  padding: 1px;
+  position: absolute;
+  left: 5px;
+  bottom: 1px;
+}
+
+#intro{
+  margin-top: 0px;
+  padding-top: 0px;
+  padding-bottom: 60px;
+  font-size: 160%;
+}
+
+#map {
+  background-color: black;
+  padding: 0px;
+  margin: 0px;
+}
+
+#RegistryButton {
+  background-color:#a3c6e2;
+  color: white;
+  font-size: 150%;
+  margin-top: 25px;
+}
+
+#registryP {
+  padding-bottom:30px;
+}
+
+#rsvpB {
+  font-size: 30px;
+}
